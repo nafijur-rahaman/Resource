@@ -1,3 +1,5 @@
+https://www.notion.so/School-Management-Project-Api-Doc-28bca050b81880deaee5fb58dc388414
+
 import java.util.Scanner;
 
 public class Task_1 {
@@ -35,3 +37,4 @@ public class Task_1 {
 
     }
 }
+
