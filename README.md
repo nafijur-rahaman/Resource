@@ -8,5 +8,4 @@
 [String Problems (Topic-wise) on GeeksforGeeks](https://www.geeksforgeeks.org/string-problems-topicwise/)
 
 
-[Phitron Data Structure GitBook](https://phitron.gitbook.io/data-structure)
 
